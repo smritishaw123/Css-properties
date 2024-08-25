@@ -1,0 +1,21 @@
+/*h2 {
+    display:inline; }   /*same line mae aa jana*/
+
+/*span{
+    display:block;   }  /*full width occupy*/
+
+    span{
+        background-color:rgb(179, 241, 179);
+        border:2px solid black;
+        height: 10px; /*ignore by browser */
+        width: 10px;
+        padding:20px;/* in inline element padding only set in left and right set hue hai */
+        margin: 20px;/*in inline element margin  only set in left and right set hue hai */
+        }
+        div{
+            border:2px solid black;
+            height:100px;
+            width:200px;
+            padding:50px;
+            margin:20px;
+        }
